@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "bmbx1_6502_mainboard-rescue")(type "Legacy")(uri "${KIPRJMOD}/bmbx1_6502_mainboard-rescue.lib")(options "")(descr ""))
+  (lib (name "ports_and_support-rescue")(type "Legacy")(uri "${KIPRJMOD}/ports_and_support-rescue.lib")(options "")(descr ""))
+)
